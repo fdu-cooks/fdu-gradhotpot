@@ -36,27 +36,22 @@ type: page
 > **禁止**将站内任何内容泄露给>>>**留学中介**<<<等校外机构，更加禁止将本站内容>>>**私自出售**<<<等。
 
 ## Update Log
-*2019.3.13*
 
-- 网页模板debug
-- 邀请问卷确立
+*2019.3.24*
+
+- 初代开发成员们约了一顿好吃的羊肉火锅
+- 网页模板debug，基本框架完成
+- 邀请问卷确立（但Guigui忘记保存了 ヽ(｀Д´)ﾉ
 - collection表格建立
-
 
 *2019.3.16*
 
 - 本站建立
 
-*2019.3.24*
-
-- 初代开发成员们约了一顿好吃的羊肉火锅
-- 基本框架完成
-- 索引表格完成
-
 ## 友情链接
 
 * [复旦大学计算机学院](http://www.cs.fudan.edu.cn/)
-* [复旦大学大数据学院](www.sds.fudan.edu.cn/)
+* [复旦大学大数据学院](http://www.sds.fudan.edu.cn/)
 * [一亩三分地](https://www.1point3acres.com/bbs/)
 * [Grad Cafe](https://www.thegradcafe.com/)
 
