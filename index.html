@@ -77,7 +77,7 @@ layout: default
                 </div>
                 <ul class="content-ul" recent>
                     {% for post in site.posts offset: 0 limit: 10  %}
-                        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                        <li><a href="{{ site.url }}/{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></li>
                     {% endfor %}
                 </ul>
             </div>
@@ -91,7 +91,7 @@ layout: default
                 <ul class="content-ul" cate>
                     {% for category in site.categories %}
                     <li>
-                        <a href="{{ site.baseurl }}/{{ site.category_dir }}#{{ category | first }}" class="categories-list-item" cate="{{ category | first }}">
+                        <a href="{{ site.url }}/{{ site.baseurl }}/{{ site.category_dir }}#{{ category | first }}" class="categories-list-item" cate="{{ category | first }}">
                             <span class="name">
                                 {{ category | first }}
                             </span>
@@ -141,7 +141,7 @@ layout: default
                       {% else %}
                         {% assign color = 8 | minus: base %}
                       {% endif %}
-                      <a href="{{ site.baseurl }}/{{ site.tag_dir }}#{{ tag[0] }}" style="font-size: {{ size }}pt; color: #{{ color }}{{ color }}{{ color }};">{{ tag[0] }}</a>
+                      <a href="{{ site.url }}/{{ site.baseurl }}/{{ site.tag_dir }}#{{ tag[0] }}" style="font-size: {{ size }}pt; color: #{{ color }}{{ color }}{{ color }};">{{ tag[0] }}</a>
                     {% endfor %}
                 </div>
             </div>
