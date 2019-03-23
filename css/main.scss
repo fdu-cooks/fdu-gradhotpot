@@ -46,12 +46,17 @@
  */
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "reset", "header", "post", "page", "syntax-highlighting", "index", "demo", "footer", "scrollbar", "backToTop";
-// 两个人在列车上相遇
-// 一段旅程充满了诗意
-// 你突然说你要下车
-// 去寻找属于你的灵魂和身体
-//
-// 当你穷的只剩下理想时
-// 就再次回到这列车上
-// 我们谈天说地
-// 把酒言欢，赠予你新路途纹银
+
+table{
+    // word-break: break-all;  
+    font-size: 15px;
+    width: 100%;
+    thead {
+        background-color: #777;
+    }
+    tbody tr {
+        font-size: 14px;
+    }
+}
+
+// td{width:100px;}
