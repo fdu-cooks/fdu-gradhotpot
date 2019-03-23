@@ -8,8 +8,8 @@
 # Site settings
 title: FDU-gradhotpot
 brief-intro: Anything related in graduate program admission!
-baseurl: "/fdu-gradhotpot" # the subpath of your site, e.g. /blog
-url: "https://fdu-cooks.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://fdu-cooks.github.io/fdu-gradhotpot/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
