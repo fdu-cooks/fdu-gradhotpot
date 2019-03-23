@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FDU-gradhotpot</title>
+    <description></description>
+    <link>http://localhost:4000/fdu-gradhotpot/</link>
+    <atom:link href="http://localhost:4000/fdu-gradhotpot/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 24 Mar 2019 00:08:40 +0800</pubDate>
+    <lastBuildDate>Sun, 24 Mar 2019 00:08:40 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>建站ToDo List</title>
+        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#写在前面&quot; id=&quot;markdown-toc-写在前面&quot;&gt;写在前面&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#todo-list&quot; id=&quot;markdown-toc-todo-list&quot;&gt;ToDo List&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#for-now&quot; id=&quot;markdown-toc-for-now&quot;&gt;For now&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#for-future&quot; id=&quot;markdown-toc-for-future&quot;&gt;For future&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;写在前面&quot;&gt;写在前面&lt;/h2&gt;
+
+在“美利坚做饭交流群”中的一次集体吐槽我🥚graduate school申请方面的信息匮乏时，大家一致达成了想要做这样一个专属于复旦CSer &amp;amp; DSer们的信息整合平台，希望能给学弟学妹们带来一些指导，也希望多年以后学弟学妹们能够凭借本站，完全摆脱留学中介们的束缚。
+
+&lt;h2 id=&quot;todo-list&quot;&gt;ToDo List&lt;/h2&gt;
+
+建站伊始，百废待兴，诸君努力！
+
+&lt;h3 id=&quot;for-now&quot;&gt;For now&lt;/h3&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;本站实施方案确定&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;内容结构制定&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;内容类别（category）以及标签（tags）大体制定&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;发帖流程、发帖规则制定&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;本站内容保密原则制定&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;for-future&quot;&gt;For future&lt;/h3&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;复旦CS/DS课程资料/心得/吐槽分享&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 16 Mar 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/fdu-gradhotpot/2019/03/16/toDoList/</link>
+        <guid isPermaLink="true">http://localhost:4000/fdu-gradhotpot/2019/03/16/toDoList/</guid>
+        
+        <category>建站</category>
+        
+        
+        <category>ToDo</category>
+        
+      </item>
+    
+  </channel>
+</rss>
