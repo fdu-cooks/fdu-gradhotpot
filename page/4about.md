@@ -47,9 +47,18 @@ type: page
 
 - 本站建立
 
+*2019.3.24*
+
+- 初代开发成员们约了一顿好吃的羊肉火锅
+- 基本框架完成
+- 索引表格完成
+
 ## 友情链接
 
-[大数据学院](www.sds.fudan.edu.cn/)
+* [复旦大学计算机学院](http://www.cs.fudan.edu.cn/)
+* [复旦大学大数据学院](www.sds.fudan.edu.cn/)
+* [一亩三分地](https://www.1point3acres.com/bbs/)
+* [Grad Cafe](https://www.thegradcafe.com/)
 
 ## Comments
 
