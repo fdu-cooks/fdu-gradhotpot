@@ -36,7 +36,7 @@ disqus_shortname: shun-blog
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
 baidu_tongji_id: 66b97f63670e7488b8493321c91f6c93  # shun
-google_analytics_id: UA-72449510-4 # google 分析追踪id
+google_analytics_id:  # google 分析追踪id
 
 # Build settings
 markdown: kramdown
