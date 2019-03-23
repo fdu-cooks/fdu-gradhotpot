@@ -15,10 +15,11 @@ type: page
 
 ## 联系我们
 
-* 小花
-* 占魁
-* 顺哥
-* 聪聪
+* [RshCaroline](https://rshcaroline.github.io/)
+* [AaronHeee](https://aaronheee.github.io/)
+* [Sean Zhang](https://zhangshun97.github.io/)
+* [jianconggao](https://github.com/jianconggao)
+* gui
 
 ## 关于本站
 
@@ -30,7 +31,7 @@ type: page
 
 本站所展示信息均经过主体个人授权，为个人意愿、仅代表个人，与复旦大学无直接关系。
 
-## **本站的唯一红线！！！**
+## **本站的唯一<font color=#FF0000>红线</font>！！！**
 
 > **禁止**将站内任何内容泄露给>>>**留学中介**<<<等校外机构，更加禁止将本站内容>>>**私自出售**<<<等。
 
