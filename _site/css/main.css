@@ -951,3 +951,7 @@ pre {
       line-height: 33px;
       text-align: center;
       font-size: 18px; } }
+table {
+  width: 100%; }
+  table thead {
+    background-color: #777; }

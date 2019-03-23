@@ -15,10 +15,11 @@ type: page
 
 ## 联系我们
 
-* 小花
-* 占魁
-* 顺哥
-* 聪聪
+* [RshCaroline](https://rshcaroline.github.io/)
+* [AaronHeee](https://aaronheee.github.io/)
+* [Sean Zhang](https://zhangshun97.github.io/)
+* [Jiancong Gao](https://github.com/jianconggao)
+* [Guigui](https://github.com/Lidonghao1996)
 
 ## 关于本站
 
