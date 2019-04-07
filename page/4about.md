@@ -51,14 +51,10 @@ type: page
 ## 友情链接
 
 * [复旦大学计算机学院](http://www.cs.fudan.edu.cn/)
-<<<<<<< HEAD
 * [复旦大学大数据学院](https:www.sds.fudan.edu.cn/)
-=======
 * [复旦大学大数据学院](http://www.sds.fudan.edu.cn/)
->>>>>>> 9763fd9dd1867ff2f35a56caf45dd3a61df8b90a
 * [一亩三分地](https://www.1point3acres.com/bbs/)
 * [Grad Cafe](https://www.thegradcafe.com/)
-
 ## Comments
 
 {% include comments.html %}
