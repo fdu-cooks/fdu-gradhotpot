@@ -9,7 +9,7 @@
 title: FDU-gradhotpot
 brief-intro: Anything related in graduate program admission!
 baseurl: "/fdu-gradhotpot" # the subpath of your site, e.g. /blog
-url: "https://fdu-cooks.github.io/" # the base hostname & protocol for your site
+url: "https://fdu-cooks.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -58,3 +58,9 @@ excerpt_separator: "\n\n\n\n"
 # paginate
 gems: [jekyll-paginate]
 paginate: 6
+
+# search engine with algolia
+algolia:
+   application_id: 'KRITZR1P9L'
+   index_name:     'KRITZR1P9L'
+   search_only_api_key: '5fdcf330fc6ad3f56dff2fdf3a3f874d'
