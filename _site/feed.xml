@@ -5,39 +5,40 @@
     <description></description>
     <link>http://localhost:4000/fdu-gradhotpot/</link>
     <atom:link href="http://localhost:4000/fdu-gradhotpot/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Apr 2019 15:42:47 +0800</pubDate>
-    <lastBuildDate>Thu, 11 Apr 2019 15:42:47 +0800</lastBuildDate>
+    <pubDate>Thu, 11 Apr 2019 15:53:17 +0800</pubDate>
+    <lastBuildDate>Thu, 11 Apr 2019 15:53:17 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Hello Hotpot</title>
         <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#项目简介与缘起&quot; id=&quot;markdown-toc-项目简介与缘起&quot;&gt;项目简介与缘起&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#项目当前内容&quot; id=&quot;markdown-toc-项目当前内容&quot;&gt;项目当前内容&lt;/a&gt;    &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#项目缘起&quot; id=&quot;markdown-toc-项目缘起&quot;&gt;项目缘起&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#项目内容&quot; id=&quot;markdown-toc-项目内容&quot;&gt;项目内容&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#选校定位&quot; id=&quot;markdown-toc-选校定位&quot;&gt;选校定位&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#申请心得&quot; id=&quot;markdown-toc-申请心得&quot;&gt;申请心得：&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#申请时间线&quot; id=&quot;markdown-toc-申请时间线&quot;&gt;申请时间线：&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#联系方式&quot; id=&quot;markdown-toc-联系方式&quot;&gt;联系方式：&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#项目相关事项&quot; id=&quot;markdown-toc-项目相关事项&quot;&gt;项目相关事项&lt;/a&gt;    &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#项目事项&quot; id=&quot;markdown-toc-项目事项&quot;&gt;项目事项&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#致分享者&quot; id=&quot;markdown-toc-致分享者&quot;&gt;致分享者：&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#致学弟学妹&quot; id=&quot;markdown-toc-致学弟学妹&quot;&gt;致学弟学妹：&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#项目维护信息&quot; id=&quot;markdown-toc-项目维护信息&quot;&gt;项目维护信息&lt;/a&gt;    &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#项目维护&quot; id=&quot;markdown-toc-项目维护&quot;&gt;项目维护&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#项目仓库&quot; id=&quot;markdown-toc-项目仓库&quot;&gt;项目仓库&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#项目时间表&quot; id=&quot;markdown-toc-项目时间表&quot;&gt;项目时间表&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#联系我们&quot; id=&quot;markdown-toc-联系我们&quot;&gt;联系我们&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;项目简介与缘起&quot;&gt;项目简介与缘起&lt;/h3&gt;
-
 &lt;em&gt;Hotpot计划&lt;/em&gt;是&lt;a href=&quot;https://fdu-cooks.github.io/fdu-gradhotpot/&quot;&gt;复旦留学申请数据开源计划&lt;/a&gt;的代称，旨在为复旦学弟学妹无偿分享留学申请经验、暑研动态等一切相关信息。不一定能给出最优的策略，但我们诚挚希望为学弟学妹的留学规划提供一些参考和建议。
+
+&lt;h2 id=&quot;项目缘起&quot;&gt;项目缘起&lt;/h2&gt;
 
 项目缘起于一次火锅聚餐，几位刚经历了留学申请的大数据学院学长学姐对于走过的留学申请弯路颇为感慨。同时有感于&lt;em&gt;上交海外申请自助小组GAU&lt;/em&gt;、&lt;em&gt;浙大留学申请飞跃手册&lt;/em&gt; 等组织或资料，而我旦在这方面给予学弟学妹的帮助甚少，于是计划建立一个通畅且非盈利的复旦留学信息渠道，在火锅店就地取名为&lt;em&gt;Hotpot计划&lt;/em&gt;。
 
-&lt;h3 id=&quot;项目当前内容&quot;&gt;项目当前内容&lt;/h3&gt;
+&lt;h2 id=&quot;项目内容&quot;&gt;项目内容&lt;/h2&gt;
 
 根据与学弟学妹的初步交流，以及自己的申请经验，我们认为比较珍贵而独特的分享信息有：
 
@@ -69,7 +70,7 @@
   &lt;li&gt;我们采用&lt;strong&gt;校名邮件&lt;/strong&gt;的方式提供学长学姐的联系方式，只有用&lt;code class=&quot;highlighter-rouge&quot;&gt;fudan.edu.cn&lt;/code&gt;后缀发送的邮件能够获得我们的回信，我们会在回信中附上你想要交流的学长学姐的联系方式。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;项目相关事项&quot;&gt;项目相关事项&lt;/h3&gt;
+&lt;h2 id=&quot;项目事项&quot;&gt;项目事项&lt;/h2&gt;
 
 &lt;h4 id=&quot;致分享者&quot;&gt;致分享者：&lt;/h4&gt;
 
@@ -87,7 +88,7 @@
   &lt;li&gt;&lt;strong&gt;公益性质：&lt;/strong&gt; 我们不希望受益者将内容泄露给商业机构，切记，望理解！&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;项目维护信息&quot;&gt;项目维护信息&lt;/h3&gt;
+&lt;h2 id=&quot;项目维护&quot;&gt;项目维护&lt;/h2&gt;
 
 &lt;h4 id=&quot;项目仓库&quot;&gt;项目仓库&lt;/h4&gt;
 
@@ -98,7 +99,17 @@
 
 &lt;h4 id=&quot;项目时间表&quot;&gt;项目时间表&lt;/h4&gt;
 
-&lt;img src=&quot;assets/images/timeline.png&quot; alt=&quot;timeline&quot; /&gt;
+&lt;img src=&quot;https://ws2.sinaimg.cn/large/006tNc79gy1g1yqr84d45j31hc0u0gvy.jpg&quot; alt=&quot;timeline&quot; /&gt;
+
+&lt;h4 id=&quot;联系我们&quot;&gt;联系我们&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rshcaroline.github.io/&quot;&gt;RshCaroline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aaronheee.github.io/&quot;&gt;AaronHeee&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zhangshun97.github.io/&quot;&gt;Sean Zhang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jianconggao&quot;&gt;Jiancong Gao&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Lidonghao1996&quot;&gt;Guigui&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
         <pubDate>Sat, 16 Mar 2019 00:00:00 +0800</pubDate>
