@@ -5,159 +5,27 @@
     <description></description>
     <link>http://localhost:4000/fdu-gradhotpot/</link>
     <atom:link href="http://localhost:4000/fdu-gradhotpot/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Apr 2019 15:53:17 +0800</pubDate>
-    <lastBuildDate>Thu, 11 Apr 2019 15:53:17 +0800</lastBuildDate>
+    <pubDate>Thu, 11 Apr 2019 16:20:51 +0800</pubDate>
+    <lastBuildDate>Thu, 11 Apr 2019 16:20:51 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Hello Hotpot</title>
-        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#项目缘起&quot; id=&quot;markdown-toc-项目缘起&quot;&gt;项目缘起&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#项目内容&quot; id=&quot;markdown-toc-项目内容&quot;&gt;项目内容&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#选校定位&quot; id=&quot;markdown-toc-选校定位&quot;&gt;选校定位&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#申请心得&quot; id=&quot;markdown-toc-申请心得&quot;&gt;申请心得：&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#申请时间线&quot; id=&quot;markdown-toc-申请时间线&quot;&gt;申请时间线：&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#联系方式&quot; id=&quot;markdown-toc-联系方式&quot;&gt;联系方式：&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#项目事项&quot; id=&quot;markdown-toc-项目事项&quot;&gt;项目事项&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#致分享者&quot; id=&quot;markdown-toc-致分享者&quot;&gt;致分享者：&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#致学弟学妹&quot; id=&quot;markdown-toc-致学弟学妹&quot;&gt;致学弟学妹：&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#项目维护&quot; id=&quot;markdown-toc-项目维护&quot;&gt;项目维护&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#项目仓库&quot; id=&quot;markdown-toc-项目仓库&quot;&gt;项目仓库&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#项目时间表&quot; id=&quot;markdown-toc-项目时间表&quot;&gt;项目时间表&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#联系我们&quot; id=&quot;markdown-toc-联系我们&quot;&gt;联系我们&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;em&gt;Hotpot计划&lt;/em&gt;是&lt;a href=&quot;https://fdu-cooks.github.io/fdu-gradhotpot/&quot;&gt;复旦留学申请数据开源计划&lt;/a&gt;的代称，旨在为复旦学弟学妹无偿分享留学申请经验、暑研动态等一切相关信息。不一定能给出最优的策略，但我们诚挚希望为学弟学妹的留学规划提供一些参考和建议。
-
-&lt;h2 id=&quot;项目缘起&quot;&gt;项目缘起&lt;/h2&gt;
-
-项目缘起于一次火锅聚餐，几位刚经历了留学申请的大数据学院学长学姐对于走过的留学申请弯路颇为感慨。同时有感于&lt;em&gt;上交海外申请自助小组GAU&lt;/em&gt;、&lt;em&gt;浙大留学申请飞跃手册&lt;/em&gt; 等组织或资料，而我旦在这方面给予学弟学妹的帮助甚少，于是计划建立一个通畅且非盈利的复旦留学信息渠道，在火锅店就地取名为&lt;em&gt;Hotpot计划&lt;/em&gt;。
-
-&lt;h2 id=&quot;项目内容&quot;&gt;项目内容&lt;/h2&gt;
-
-根据与学弟学妹的初步交流，以及自己的申请经验，我们认为比较珍贵而独特的分享信息有：
-
-&lt;h4 id=&quot;选校定位&quot;&gt;选校定位&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;提供学长学姐的选校信息和最终录取/拒绝的结果，方便学弟学妹们进行选校参考。&lt;/li&gt;
-  &lt;li&gt;其他论坛也有定位帖，但是来自复旦的录取/拒绝信息对于本校的同学来说，有更直接的参考意义。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;申请心得&quot;&gt;申请心得：&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;邀请一部分学长学姐分享他们认为重要的申请经验，同学们可以各取所需。&lt;/li&gt;
-  &lt;li&gt;可能内容有：选校策略、暑研、陶瓷和面试技巧、转专业申请注意事项。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;申请时间线&quot;&gt;申请时间线：&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;各位学长学姐将分享各自的申请时间线，为同学们规划准备提供参考。&lt;/li&gt;
-  &lt;li&gt;可能内容为：重要的时间节点，如英语达标、文书撰写、开始申请、收到面试、决定去向等，&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;联系方式&quot;&gt;联系方式：&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;促进跨年级的经验交流，方便学弟学妹进行个性化联系。&lt;/li&gt;
-  &lt;li&gt;我们采用&lt;strong&gt;校名邮件&lt;/strong&gt;的方式提供学长学姐的联系方式，只有用&lt;code class=&quot;highlighter-rouge&quot;&gt;fudan.edu.cn&lt;/code&gt;后缀发送的邮件能够获得我们的回信，我们会在回信中附上你想要交流的学长学姐的联系方式。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;项目事项&quot;&gt;项目事项&lt;/h2&gt;
-
-&lt;h4 id=&quot;致分享者&quot;&gt;致分享者：&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;分享自由：&lt;/strong&gt; 期待分享者能够尽可能填写完整的资料，为学弟学妹们提供全面完善的信息。我们以及学弟学妹对此表示&lt;strong&gt;真诚的感谢（×100）！&lt;/strong&gt;同时，分享者可以隐藏不想透露的信息。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;隐私保护：&lt;/strong&gt; 分享者的真实姓名、联系方式等隐私信息将被保护。并且只有在分享者允许的情况下，学弟学妹们才能通过学号邮件请求到分享者的个人联系方式。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;公益性质：&lt;/strong&gt; 该项目依靠我旦学长学姐的善意分享而建立，希望分享者不要填写虚假信息，同时也不要出现广告等商业信息，感谢！&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;致学弟学妹&quot;&gt;致学弟学妹：&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;尽情玩耍：&lt;/strong&gt; 请在&lt;em&gt;Hotpot&lt;/em&gt;的网站里尽情玩耍，获取你们需要的信息，各个板块的详细说明在上文中有详细的讲解，希望你们能获得帮助。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;欢迎加入：&lt;/strong&gt; 我们期待&lt;em&gt;Hotpot&lt;/em&gt;能够延续、帮助更多同学，也希望受益者能成为将来的分享者。如果对于网站建设、信息收集感兴趣的同学，欢迎加入我们，一起打造通畅且非盈利的复旦留学信息渠道。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;公益性质：&lt;/strong&gt; 我们不希望受益者将内容泄露给商业机构，切记，望理解！&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;项目维护&quot;&gt;项目维护&lt;/h2&gt;
-
-&lt;h4 id=&quot;项目仓库&quot;&gt;项目仓库&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Github: &lt;a href=&quot;https://github.com/fdu-cooks/fdu-gradhotpot&quot;&gt;https://github.com/fdu-cooks/fdu-gradhotpot&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;欢迎在Issue中提出意见和建议，同时可以将反馈直接发送到Hotpot公共邮箱: &lt;a href=&quot;mailto:fdu-hotpot@outlook.com&quot;&gt;fdu-hotpot@outlook.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;项目时间表&quot;&gt;项目时间表&lt;/h4&gt;
-
-&lt;img src=&quot;https://ws2.sinaimg.cn/large/006tNc79gy1g1yqr84d45j31hc0u0gvy.jpg&quot; alt=&quot;timeline&quot; /&gt;
-
-&lt;h4 id=&quot;联系我们&quot;&gt;联系我们&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://rshcaroline.github.io/&quot;&gt;RshCaroline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://aaronheee.github.io/&quot;&gt;AaronHeee&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://zhangshun97.github.io/&quot;&gt;Sean Zhang&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jianconggao&quot;&gt;Jiancong Gao&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Lidonghao1996&quot;&gt;Guigui&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sat, 16 Mar 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/fdu-gradhotpot/2019/03/16/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/</link>
-        <guid isPermaLink="true">http://localhost:4000/fdu-gradhotpot/2019/03/16/%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2/</guid>
+        <title>Hotpot卷首语</title>
+        <description>Hotpot计划是复旦留学申请数据开源计划的代称，旨在为复旦学弟学妹无偿分享留学申请经验、暑研动态等一切相关信息。不一定能给出最优的策略，但我们诚挚希望为学弟学妹的留学规划提供一些参考和建议。</description>
+        <pubDate>Wed, 10 Apr 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/fdu-gradhotpot/2019/04/10/hellohotpot/</link>
+        <guid isPermaLink="true">http://localhost:4000/fdu-gradhotpot/2019/04/10/hellohotpot/</guid>
         
         <category>建站</category>
         
         
-        <category>ToDo</category>
+        <category>Hotpot</category>
         
       </item>
     
       <item>
         <title>建站ToDo List</title>
-        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#写在前面&quot; id=&quot;markdown-toc-写在前面&quot;&gt;写在前面&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#todo-list&quot; id=&quot;markdown-toc-todo-list&quot;&gt;ToDo List&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#for-now&quot; id=&quot;markdown-toc-for-now&quot;&gt;For now&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#for-future&quot; id=&quot;markdown-toc-for-future&quot;&gt;For future&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;写在前面&quot;&gt;写在前面&lt;/h2&gt;
-
-在“美利坚做饭交流群”中的一次集体吐槽我🥚graduate school申请方面的信息匮乏时，大家一致达成了想要做这样一个专属于复旦CSer &amp;amp; DSer们的信息整合平台，希望能给学弟学妹们带来一些指导，也希望多年以后学弟学妹们能够凭借本站，完全摆脱留学中介们的束缚。
-
-&lt;h2 id=&quot;todo-list&quot;&gt;ToDo List&lt;/h2&gt;
-
-建站伊始，百废待兴，诸君努力！
-
-&lt;h3 id=&quot;for-now&quot;&gt;For now&lt;/h3&gt;
-
-&lt;ul class=&quot;task-list&quot;&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;本站实施方案确定&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;内容结构制定&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;内容类别（category）以及标签（tags）大体制定&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;发帖流程、发帖规则制定&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;本站内容保密原则制定&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;for-future&quot;&gt;For future&lt;/h3&gt;
-
-&lt;ul class=&quot;task-list&quot;&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;复旦CS/DS课程资料/心得/吐槽分享&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+        <description>建站伊始，百废待兴，诸君努力！</description>
         <pubDate>Sat, 16 Mar 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/fdu-gradhotpot/2019/03/16/toDoList/</link>
         <guid isPermaLink="true">http://localhost:4000/fdu-gradhotpot/2019/03/16/toDoList/</guid>

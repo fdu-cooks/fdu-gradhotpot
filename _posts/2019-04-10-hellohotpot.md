@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Hotpot卷首语"
-categories: ToDo
+excerpt: Hotpot计划是复旦留学申请数据开源计划的代称，旨在为复旦学弟学妹无偿分享留学申请经验、暑研动态等一切相关信息。不一定能给出最优的策略，但我们诚挚希望为学弟学妹的留学规划提供一些参考和建议。
+categories: Hotpot
 tags: 建站
 author: cooks
 typora-copy-images-to: ipic

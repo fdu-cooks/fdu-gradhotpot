@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "建站ToDo List"
+excerpt: 建站伊始，百废待兴，诸君努力！
 categories: ToDo
 tags: 建站
 author: cooks
