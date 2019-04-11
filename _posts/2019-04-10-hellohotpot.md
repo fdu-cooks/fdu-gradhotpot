@@ -5,6 +5,7 @@ excerpt: Hotpot计划是复旦留学申请数据开源计划的代称，旨在�
 categories: Hotpot
 tags: 建站
 author: cooks
+top: true
 typora-copy-images-to: ipic
 ---
 
