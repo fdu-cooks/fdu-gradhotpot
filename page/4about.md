@@ -37,6 +37,19 @@ type: page
 
 ## Update Log
 
+2019.4.11
+
+- backToTop fix
+- timeStamp
+
+2019.4.10
+
+- search
+
+2019.4.2
+
+- add UserMap
+
 *2019.3.24*
 
 - 初代开发成员们约了一顿好吃的羊肉火锅
