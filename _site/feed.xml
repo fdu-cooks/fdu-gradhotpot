@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/fdu-gradhotpot/</link>
     <atom:link href="http://localhost:4000/fdu-gradhotpot/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Apr 2019 15:10:43 +0800</pubDate>
-    <lastBuildDate>Thu, 11 Apr 2019 15:10:43 +0800</lastBuildDate>
+    <pubDate>Thu, 11 Apr 2019 15:42:47 +0800</pubDate>
+    <lastBuildDate>Thu, 11 Apr 2019 15:42:47 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -28,7 +28,6 @@
   &lt;li&gt;&lt;a href=&quot;#项目维护信息&quot; id=&quot;markdown-toc-项目维护信息&quot;&gt;项目维护信息&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#项目仓库&quot; id=&quot;markdown-toc-项目仓库&quot;&gt;项目仓库&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#项目时间表&quot; id=&quot;markdown-toc-项目时间表&quot;&gt;项目时间表&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#联系我们&quot; id=&quot;markdown-toc-联系我们&quot;&gt;联系我们&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -99,17 +98,7 @@
 
 &lt;h4 id=&quot;项目时间表&quot;&gt;项目时间表&lt;/h4&gt;
 
-&lt;img src=&quot;https://ws4.sinaimg.cn/large/006tNc79gy1g1ypoii7hcj317v0svk10.jpg&quot; alt=&quot;timeline&quot; /&gt;
-
-&lt;h4 id=&quot;联系我们&quot;&gt;联系我们&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://rshcaroline.github.io/&quot;&gt;RshCaroline&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://aaronheee.github.io/&quot;&gt;AaronHeee&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://zhangshun97.github.io/&quot;&gt;Sean Zhang&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/jianconggao&quot;&gt;Jiancong Gao&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/Lidonghao1996&quot;&gt;Guigui&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;img src=&quot;assets/images/timeline.png&quot; alt=&quot;timeline&quot; /&gt;
 
 </description>
         <pubDate>Sat, 16 Mar 2019 00:00:00 +0800</pubDate>
