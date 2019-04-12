@@ -16,7 +16,7 @@ permalink: /:year/:month/:day/:title/
 # other links
 twitter_username: 
 facebook_username: 
-github_username:  
+github_username: fdu-cooks/fdu-gradhotpot
 weibo_username: 
 zhihu_username: 
 linkedIn_username: 
@@ -42,8 +42,17 @@ google_analytics_id:  # google 分析追踪id
 markdown: kramdown
 
 kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+  input:                     GFM
+  enable_coderay:            true
+  auto_ids:                  true
+  footnote_nr:               1
+  entity_output:             as_char
+  toc_levels:                1..6
+  smart_quotes:              lsquo,rsquo,ldquo,rdquo
+  hard_wrap:                 true
+  syntax_highlighter:        rouge
+  transliterated_header_ids: true
+  footnote_backlink:         "&#8617;&#xfe0e;"
 
 # port
 # port: 1234
