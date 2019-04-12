@@ -1,0 +1,28 @@
+<div>
+    <i class="fa fa-search"></i>
+    Search
+</div>
+
+<div id="site_search">
+    <input type="text" id="search_box" placeholder="Search..." style="width:95%;">
+</div>
+
+<ul class="content-ul" id="search_results" recent ></ul>
+
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/main.css">
+<script type="text/javascript" src="{{ site.baseurl }}/js/search.js"></script>
+<script src="{{ site.baseurl }}/js/jekyll-search.min.js"></script>
+
+<script type="text/javascript">
+SimpleJekyllSearch({
+    searchInput: document.getElementById('search_box'),
+    resultsContainer: document.getElementById('search_results'),
+    json: '{{ site.baseurl }}/search_data.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+    noResultsText: 'No results found',
+    limit: 10,
+    fuzzy: false,
+})
+
+
+</script>

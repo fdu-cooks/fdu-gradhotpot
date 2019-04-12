@@ -127,7 +127,7 @@
         <hr>
         <ul>
             
-            <h2 id="ToDo">ToDo</h2>
+            <h2 id="Hotpot">Hotpot</h2>
                 
                     
                         
@@ -137,9 +137,9 @@
                         
                         <li>
                             <time>
-                            2019-03-16 Sat.
+                            2019-04-10 Wed.
                             </time>
-                            <a class="title" href="/fdu-gradhotpot/2019/03/16/toDoList/">建站ToDo List</a>
+                            <a class="title" href="/fdu-gradhotpot/2019/04/10/hellohotpot/">Hotpot卷首语</a>
 
                             
 
@@ -149,7 +149,7 @@
   <i class="fa fa-th-list"></i>
   
     
-        <a href="http://localhost:4000//fdu-gradhotpot/category/#ToDo" title="Category: ToDo" rel="category">ToDo</a>
+        <a href="http://localhost:4000//fdu-gradhotpot/category/#Hotpot" title="Category: Hotpot" rel="category">Hotpot</a>
     
   
 
@@ -174,6 +174,59 @@
                     
                 
             
+            <h2 id="申请经验">申请经验</h2>
+                
+                    
+                        
+                    
+                
+                    
+                        
+                        <li>
+                            <time>
+                            2019-04-11 Thu.
+                            </time>
+                            <a class="title" href="/fdu-gradhotpot/2019/04/11/%E6%9D%B0%E5%B0%BC%E9%BE%9F%E7%9A%84%E7%94%B3%E8%AF%B7%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/">杰尼龟的一年申请自救与背景提升</a>
+
+                            
+
+
+<!-- <span class="point">•</span> -->
+<span class="categories">
+  <i class="fa fa-th-list"></i>
+  
+    
+        <a href="http://localhost:4000//fdu-gradhotpot/category/#申请经验" title="Category: 申请经验" rel="category">申请经验</a>
+    
+  
+
+  <!-- <span class="point">•</span> -->
+</span>
+
+
+                            
+<!-- <span class="point">•</span> -->
+<span class="pageTag">
+  <i class="fa fa-tags"></i>
+  
+    
+        <a href="http://localhost:4000//fdu-gradhotpot/tag/#暑研" title="Tag: 暑研" rel="tag">暑研</a>&nbsp;
+    
+        <a href="http://localhost:4000//fdu-gradhotpot/tag/#申请准备" title="Tag: 申请准备" rel="tag">申请准备</a>&nbsp;
+    
+        <a href="http://localhost:4000//fdu-gradhotpot/tag/#选校" title="Tag: 选校" rel="tag">选校</a>&nbsp;
+    
+        <a href="http://localhost:4000//fdu-gradhotpot/tag/#19Fall" title="Tag: 19Fall" rel="tag">19Fall</a>
+    
+  
+
+</span>
+
+                        </li>
+                        
+                    
+                
+            
         </ul>
     </div>
     <button class="anchor"><i class="fa fa-anchor"></i></button>
@@ -188,8 +241,14 @@
                 <ul id="content-side" class="content-ul">
                     
                         <li>
-                            <a data-scroll href="#ToDo">
-                                ToDo (1)
+                            <a data-scroll href="#Hotpot">
+                                Hotpot (1)
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a data-scroll href="#申请经验">
+                                申请经验 (1)
                             </a>
                         </li>
                     
@@ -212,47 +271,77 @@
              本站记录每一届复旦申请CS/DS方向MS/PhD的资料！ 
         </p>
         <p class="contact">
-            Contact me at:  
-            <a href="mailto:15300180012@fudan.edu.cn" title="email"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>        
+            Contact us at: 
+            <a href="https://github.com/fdu-cooks/fdu-gradhotpot" title="GitHub"><i class="fa fa-github" aria-hidden="true"></i></a>  
+            <a href="mailto:fdu-hotpot@outlook.com" title="email"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>        
         </p>
+        <br>
+        <!-- 计算网站运行时间 1-->
+        <span style="font-size:12px;"><script language=JavaScript> 
+            function secondToDate(second) {
+                if (!second) {
+                return 0;
+                }
+        
+            var time = new Array(0, 0, 0, 0, 0);
+        
+            if (second >= 365 * 24 * 3600) {
+                time[0] = parseInt(second / (365 * 24 * 3600));
+                second %= 365 * 24 * 3600;
+            }  
+        
+            if (second >= 24 * 3600) {
+                time[1] = parseInt(second / (24 * 3600));
+                second %= 24 * 3600;
+            }
+        
+            if (second >= 3600) {
+                time[2] = parseInt(second / 3600);
+                second %= 3600;
+            }
+        
+            if (second >= 60) {
+                time[3] = parseInt(second / 60);
+                second %= 60;
+            }
+        
+            if (second > 0) {
+                time[4] = second;
+            }
+            return time;
+        }
+        </script>
+        
+        <!-- 动态显示网站运行时间 -->
+        <script type="text/javascript" language="javascript">
+            function setTime() {
+                var create_time = Math.round(new Date(Date.UTC(2019, 02, 16, 12, 42, 0)).getTime() / 1000);
+                var timestamp = Math.round((new Date().getTime() + 8 * 60 * 60 * 1000) / 1000);
+                currentTime = secondToDate((timestamp - create_time)); 
+                currentTimeHtml = '本站已运行 ' + currentTime[0] + ' 年 ' + currentTime[1] + ' 天 ' + currentTime[2] + ' 时 ' + currentTime[3] + ' 分 ' + currentTime[4] + ' 秒 ';
+                document.getElementById("htmer_time").innerHTML = currentTimeHtml;
+            }
+            setInterval(setTime, 1000);
+        </script>
+        </span>
+        <span id="htmer_time"></span> <!-- 使用 -->
+        <!-- 计算网站运行时间 0-->
+
         <p>
-            本站总访问量<span id="busuanzi_value_site_pv"></span>次，本站访客数<span id="busuanzi_value_site_uv"></span>人次，本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+            本站总访问量<span id="busuanzi_value_site_pv"></span>次 | 本页面总阅读量<span id="busuanzi_value_page_pv"></span>次
+            <!-- 本站访客数<span id="busuanzi_value_site_uv"></span>人次 -->
         </p>
         <p class="power">
             <span>
                 Site powered by <a href="https://jekyllrb.com/">Jekyll</a> & <a href="https://pages.github.com/">Github Pages</a>.
             </span>
             <span>
-                Theme designed by <a href="https://github.com/Gaohaoyang">HyG</a>.
+                Theme designed by <a href="https://github.com/Gaohaoyang">HyG</a> & <a href="https://github.com/yfming93">Fleeming</a>.
             </span>
         </p>
     </div>
 </footer>
 
-<!-- jQuery -->
-<script src="//cdn.bootcss.com/jquery/2.2.2/jquery.min.js"></script>
-
-<!-- Bootstrap Core JavaScript -->
-<script src="//cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-
-<div class="cb-search-tool" style="position: fixed; top: 0px ; bottom: 0px; left: 0px; right:  0px;
-      opacity: 0.95; background-color: #111111; z-index: 9999; display: none;">
-    <input type="text" class="form-control cb-search-content" id="cb-search-content" style="position: fixed; top: 60px"
-        placeholder="检索 文章标题or日期or标签">
-
-    <div style="position: fixed; top: 16px; right: 16px;">
-        <img src="/fdu-gradhotpot/search/img/cb-close.png" id="cb-close-btn" />
-    </div>
-</div>
-
-<div style="position: fixed; right: 16px; bottom: 20px;">
-    <img src="/fdu-gradhotpot/search/img/cb-search.png" id="cb-search-btn" title="双击ctrl试一下" />
-</div>
-
-<link rel="stylesheet" href="/fdu-gradhotpot/search/css/cb-search.css">
-
-<script src="/fdu-gradhotpot/search/js/bootstrap3-typeahead.min.js"></script>
-<script src="/fdu-gradhotpot/search/js/cb-search.js"></script>
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
@@ -262,8 +351,8 @@
     </a>
 </div>
 
-    <script src="/fdu-gradhotpot /js/main.js " charset="utf-8"></script>
-    <script src="/fdu-gradhotpot /js/smooth-scroll.min.js " charset="utf-8"></script>
+    <script src="/fdu-gradhotpot/js/main.js " charset="utf-8"></script>
+    <!-- <script src="/fdu-gradhotpot/js/smooth-scroll.min.js " charset="utf-8"></script> -->
     <script type="text/javascript">
       smoothScroll.init({
         speed: 500, // Integer. How fast to complete the scroll in milliseconds
@@ -271,7 +360,7 @@
         offset: 20, // Integer. How far to offset the scrolling anchor location in pixels
       });
     </script>
-    <!-- <script src="/fdu-gradhotpot /js/scroll.min.js " charset="utf-8"></script> -->
+    <!-- <script src="/fdu-gradhotpot/js/scroll.min.js " charset="utf-8"></script> -->
   </body>
 
 </html>

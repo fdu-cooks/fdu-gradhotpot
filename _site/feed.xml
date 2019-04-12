@@ -5,53 +5,41 @@
     <description></description>
     <link>http://localhost:4000/fdu-gradhotpot/</link>
     <atom:link href="http://localhost:4000/fdu-gradhotpot/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Apr 2019 12:02:43 +0800</pubDate>
-    <lastBuildDate>Sun, 07 Apr 2019 12:02:43 +0800</lastBuildDate>
+    <pubDate>Fri, 12 Apr 2019 17:30:08 +0800</pubDate>
+    <lastBuildDate>Fri, 12 Apr 2019 17:30:08 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>建站ToDo List</title>
-        <description>&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#写在前面&quot; id=&quot;markdown-toc-写在前面&quot;&gt;写在前面&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#todo-list&quot; id=&quot;markdown-toc-todo-list&quot;&gt;ToDo List&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#for-now&quot; id=&quot;markdown-toc-for-now&quot;&gt;For now&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#for-future&quot; id=&quot;markdown-toc-for-future&quot;&gt;For future&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;写在前面&quot;&gt;写在前面&lt;/h2&gt;
-
-在“美利坚做饭交流群”中的一次集体吐槽我🥚graduate school申请方面的信息匮乏时，大家一致达成了想要做这样一个专属于复旦CSer &amp;amp; DSer们的信息整合平台，希望能给学弟学妹们带来一些指导，也希望多年以后学弟学妹们能够凭借本站，完全摆脱留学中介们的束缚。
-
-&lt;h2 id=&quot;todo-list&quot;&gt;ToDo List&lt;/h2&gt;
-
-建站伊始，百废待兴，诸君努力！
-
-&lt;h3 id=&quot;for-now&quot;&gt;For now&lt;/h3&gt;
-
-&lt;ul class=&quot;task-list&quot;&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;本站实施方案确定&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;内容结构制定&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;内容类别（category）以及标签（tags）大体制定&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;发帖流程、发帖规则制定&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;本站内容保密原则制定&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;for-future&quot;&gt;For future&lt;/h3&gt;
-
-&lt;ul class=&quot;task-list&quot;&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;复旦CS/DS课程资料/心得/吐槽分享&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 16 Mar 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/fdu-gradhotpot/2019/03/16/toDoList/</link>
-        <guid isPermaLink="true">http://localhost:4000/fdu-gradhotpot/2019/03/16/toDoList/</guid>
+        <title>杰尼龟的一年申请自救与背景提升</title>
+        <description>这是来自15级计算机转大数据的杰尼龟的申请经验分享~ 因为我做出国的决定做得比较晚，19Fall的申请我从18年2月才正式开始准备，好在前期有一些实习和科研经历，但还是有些力不从心，尤其是考英语成绩。所以主要想分享一下离申请还剩一年左右应该如何自救与提升背景。我主要从申请时间线、暑研（为什么要暑研、暑研前中后分别该做什么）、申请准备（GT、实习、科研、简历、PS以及选校）几个方面进行介绍，希望大家能够从我的分享中有所收获~</description>
+        <pubDate>Thu, 11 Apr 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/fdu-gradhotpot/2019/04/11/%E6%9D%B0%E5%B0%BC%E9%BE%9F%E7%9A%84%E7%94%B3%E8%AF%B7%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</link>
+        <guid isPermaLink="true">http://localhost:4000/fdu-gradhotpot/2019/04/11/%E6%9D%B0%E5%B0%BC%E9%BE%9F%E7%9A%84%E7%94%B3%E8%AF%B7%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</guid>
+        
+        <category>暑研</category>
+        
+        <category>申请准备</category>
+        
+        <category>选校</category>
+        
+        <category>19Fall</category>
+        
+        
+        <category>申请经验</category>
+        
+      </item>
+    
+      <item>
+        <title>Hotpot卷首语</title>
+        <description>Hotpot计划是复旦留学申请数据开源计划的代称，旨在为复旦学弟学妹无偿分享留学申请经验、暑研动态等一切相关信息。不一定能给出最优的策略，但我们诚挚希望为学弟学妹的留学规划提供一些参考和建议。</description>
+        <pubDate>Wed, 10 Apr 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/fdu-gradhotpot/2019/04/10/hellohotpot/</link>
+        <guid isPermaLink="true">http://localhost:4000/fdu-gradhotpot/2019/04/10/hellohotpot/</guid>
         
         <category>建站</category>
         
         
-        <category>ToDo</category>
+        <category>Hotpot</category>
         
       </item>
     
