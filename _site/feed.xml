@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FDU-gradhotpot</title>
+    <description></description>
+    <link>http://localhost:4000/fdu-gradhotpot/</link>
+    <atom:link href="http://localhost:4000/fdu-gradhotpot/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 14 Apr 2019 01:51:42 +0800</pubDate>
+    <lastBuildDate>Sun, 14 Apr 2019 01:51:42 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Hotpot分享者指南</title>
+        <description>本文写给Hotpot计划的分享者，包括如何贡献自己的选校和录取信息(不透露个人联系方式)、如何给学弟学妹分享交流、暑研、申请心得……</description>
+        <pubDate>Sat, 13 Apr 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/fdu-gradhotpot/2019/04/13/howtoshare/</link>
+        <guid isPermaLink="true">http://localhost:4000/fdu-gradhotpot/2019/04/13/howtoshare/</guid>
+        
+        <category>建站</category>
+        
+        
+        <category>Hotpot</category>
+        
+      </item>
+    
+      <item>
+        <title>转码之路，道阻且长</title>
+        <description>这是来自妙蛙种子的申请经验分享~ 我主要讲讲申请前准备（GT、实习、科研、简历）几个方面说一说自己的看法</description>
+        <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/fdu-gradhotpot/2019/04/12/%E7%94%B3%E8%AF%B7%E5%89%8D%E5%87%86%E5%A4%87-%E8%BD%AC%E7%A0%81%E5%90%91/</link>
+        <guid isPermaLink="true">http://localhost:4000/fdu-gradhotpot/2019/04/12/%E7%94%B3%E8%AF%B7%E5%89%8D%E5%87%86%E5%A4%87-%E8%BD%AC%E7%A0%81%E5%90%91/</guid>
+        
+        <category>申请准备</category>
+        
+        
+        <category>申请经验</category>
+        
+      </item>
+    
+      <item>
+        <title>杰尼龟的一年申请自救与背景提升</title>
+        <description>这是来自15级计算机转大数据的杰尼龟的申请经验分享~ 因为我做出国的决定做得比较晚，19Fall的申请我从18年2月才正式开始准备，好在前期有一些实习和科研经历，但还是有些力不从心，尤其是考英语成绩。所以主要想分享一下离申请还剩一年左右应该如何自救与提升背景。我主要从申请时间线、暑研（为什么要暑研、暑研前中后分别该做什么）、申请准备（GT、实习、科研、简历、PS以及选校）几个方面进行介绍，希望大家能够从我的分享中有所收获~</description>
+        <pubDate>Thu, 11 Apr 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/fdu-gradhotpot/2019/04/11/%E6%9D%B0%E5%B0%BC%E9%BE%9F%E7%9A%84%E7%94%B3%E8%AF%B7%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</link>
+        <guid isPermaLink="true">http://localhost:4000/fdu-gradhotpot/2019/04/11/%E6%9D%B0%E5%B0%BC%E9%BE%9F%E7%9A%84%E7%94%B3%E8%AF%B7%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</guid>
+        
+        <category>暑研</category>
+        
+        <category>申请准备</category>
+        
+        <category>选校</category>
+        
+        <category>19Fall</category>
+        
+        
+        <category>申请经验</category>
+        
+      </item>
+    
+      <item>
+        <title>Hotpot卷首语</title>
+        <description>Hotpot计划是复旦留学申请数据开源计划的代称，旨在为复旦学弟学妹无偿分享留学申请经验、暑研动态等一切相关信息。不一定能给出最优的策略，但我们诚挚希望为学弟学妹的留学规划提供一些参考和建议。</description>
+        <pubDate>Wed, 10 Apr 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/fdu-gradhotpot/2019/04/10/hellohotpot/</link>
+        <guid isPermaLink="true">http://localhost:4000/fdu-gradhotpot/2019/04/10/hellohotpot/</guid>
+        
+        <category>建站</category>
+        
+        
+        <category>Hotpot</category>
+        
+      </item>
+    
+  </channel>
+</rss>
