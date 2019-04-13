@@ -2,10 +2,9 @@
 layout: post
 title:  "Hotpot分享者指南"
 excerpt: "本文写给Hotpot计划的分享者，包括如何贡献自己的选校和录取信息(不透露个人联系方式)、如何给学弟学妹分享交流、暑研、申请心得……"
-categories: Hotpot
+categories: Hotpot建站
 tags: 建站
 author: cooks
-top: true
 typora-copy-images-to: ipic
 ---
 
