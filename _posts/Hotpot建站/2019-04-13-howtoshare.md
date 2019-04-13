@@ -34,8 +34,8 @@ typora-copy-images-to: ipic
 
 ##### 写作前：
 
--  您可以将自己在申请过程中的心得、教训、建议在这里分享，您可以写申请全程回顾、详细而全面（例：[这一篇](https://fdu-cooks.github.io/fdu-gradhotpot/2019/04/11/%E6%9D%B0%E5%B0%BC%E9%BE%9F%E7%9A%84%E7%94%B3%E8%AF%B7%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/)），您也可以有所侧重、精简干练（例：[这一篇](https://fdu-cooks.github.io/fdu-gradhotpot/2019/04/12/%E7%94%B3%E8%AF%B7%E5%89%8D%E5%87%86%E5%A4%87-%E8%BD%AC%E7%A0%81%E5%90%91/)），只要您认为能够帮助他人即可。
--  您可通过向Github提交Markdown文件添加申请心得，相信 CS / DS 的你能够很快搞定这些，我们的文章存放在[此处](https://github.com/fdu-cooks/fdu-gradhotpot/tree/master/_posts/%E7%94%B3%E8%AF%B7%E7%BB%8F%E9%AA%8C)，可作为您写作前的参考。
+-  您可以将自己在申请过程中的心得、教训、建议在这里分享，您可以写申请全程回顾、详细而全面（如[这一篇](https://fdu-cooks.github.io/fdu-gradhotpot/2019/04/11/%E6%9D%B0%E5%B0%BC%E9%BE%9F%E7%9A%84%E7%94%B3%E8%AF%B7%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/)），您也可以有所侧重、精简干练（如[这一篇](https://fdu-cooks.github.io/fdu-gradhotpot/2019/04/12/%E7%94%B3%E8%AF%B7%E5%89%8D%E5%87%86%E5%A4%87-%E8%BD%AC%E7%A0%81%E5%90%91/)），只要您认为能够帮助他人即可。
+-  我们需要您将文章写成Markdown格式，相信 CS / DS 的你能够很快搞定这些，我们的文章存放在[此处](https://github.com/fdu-cooks/fdu-gradhotpot/tree/master/_posts/%E7%94%B3%E8%AF%B7%E7%BB%8F%E9%AA%8C)，可作为您写作前的参考。
 
 ##### 写作时：
 
@@ -80,8 +80,8 @@ typora-copy-images-to: ipic
 
 
 -  当您完成写作之后，您可以选择其中一种方式上传：
-   -  创建Pull Request推送到我们的代码仓库中，这种方式能够使您纳入到我们的Github贡献者名单中，如果您不担心真实姓名被透露，我们推荐您采取这种方法(文章存放位置：[代码仓库](https://github.com/fdu-cooks/fdu-gradhotpot)的 `fdu-gradhotpot/_posts/申请经验/` 文件夹中)。
-   -  将您的Markdown文件发送至Hotpot公邮<fdu-hotpot@outlook.com>中，我们将尽快帮您上传。
+   -  创建Pull Request推送到我们的代码仓库中，这种方式能够使您纳入到我们的Github贡献者名单中，如果您不担心真实姓名被透露，我们推荐您采取这种方法(文章存放位置：[代码仓库](https://github.com/fdu-cooks/fdu-gradhotpot)的 `fdu-gradhotpot/_posts/申请经验/`)。
+   -  将您的Markdown文件发送至Hotpot公邮<fdu-hotpot@outlook.com>，我们将尽快帮您上传。
 -  注：如果您需要插入图片，我们推荐您使用在线图床。
 
 ## 写在最后
