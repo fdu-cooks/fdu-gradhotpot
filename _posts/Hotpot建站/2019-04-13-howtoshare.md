@@ -32,6 +32,8 @@ typora-copy-images-to: ipic
 
 #### 申请心得(信息发布在[Categories](https://fdu-cooks.github.io/fdu-gradhotpot/category/))
 
+> **注：目前本站是完全公开的，即您所写的心得是对全网公开的，所以如果您对个人隐私比较关注，请尽量在文中保护自己的个人信息，例如[这一篇](https://fdu-cooks.github.io/fdu-gradhotpot/2019/04/12/%E7%94%B3%E8%AF%B7%E5%89%8D%E5%87%86%E5%A4%87-%E8%BD%AC%E7%A0%81%E5%90%91/)。或者您也可以放弃分享，我们完全尊重您的个人隐私和您的个人意愿。**
+
 ##### 写作前
 
 -  您可以将自己在申请过程中的心得、教训、建议在这里分享，您可以写申请全程回顾、详细而全面（如[这一篇](https://fdu-cooks.github.io/fdu-gradhotpot/2019/04/11/%E6%9D%B0%E5%B0%BC%E9%BE%9F%E7%9A%84%E7%94%B3%E8%AF%B7%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/)），您也可以有所侧重、精简干练（如[这一篇](https://fdu-cooks.github.io/fdu-gradhotpot/2019/04/12/%E7%94%B3%E8%AF%B7%E5%89%8D%E5%87%86%E5%A4%87-%E8%BD%AC%E7%A0%81%E5%90%91/)），只要您认为能够帮助他人即可。

@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/fdu-gradhotpot/</link>
     <atom:link href="http://localhost:4000/fdu-gradhotpot/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Apr 2019 01:51:42 +0800</pubDate>
-    <lastBuildDate>Sun, 14 Apr 2019 01:51:42 +0800</lastBuildDate>
+    <pubDate>Sun, 14 Apr 2019 11:03:53 +0800</pubDate>
+    <lastBuildDate>Sun, 14 Apr 2019 11:03:53 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -19,7 +19,7 @@
         <category>建站</category>
         
         
-        <category>Hotpot</category>
+        <category>Hotpot建站</category>
         
       </item>
     
@@ -67,7 +67,7 @@
         <category>建站</category>
         
         
-        <category>Hotpot</category>
+        <category>Hotpot建站</category>
         
       </item>
     
