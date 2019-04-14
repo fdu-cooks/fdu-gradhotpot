@@ -15,7 +15,7 @@ typora-copy-images-to: ipic
 
 本文写给*Hotpot计划* 的分享者，包括如何贡献自己的选校和录取信息(不透露个人联系方式)、如何上传自己的交流、暑研、申请心得，希望我们能够促进跨年级信息交流，一起帮助学弟学妹们在申请时少走弯路。
 
-## 分享动机与原则：
+## 分享动机与原则
 
 可参见建站的[卷首语](https://fdu-cooks.github.io/fdu-gradhotpot/2019/04/10/hellohotpot/#%E8%87%B4%E5%88%86%E4%BA%AB%E8%80%85)中提到的公益动机和分享原则：
 
@@ -23,22 +23,22 @@ typora-copy-images-to: ipic
 >  -  **隐私保护：** 分享者的真实姓名、联系方式等隐私信息将被保护。并且只有在分享者允许的情况下，学弟学妹们才能通过学号邮件请求到分享者的个人联系方式。
 >  -  **公益性质：** 该项目依靠我旦学长学姐的善意分享而建立，希望分享者不要填写虚假信息，同时也不要出现广告等商业信息，感谢！
 
-## 分享的具体流程：
+## 分享的具体流程
 
-#### 选校定位[(Collections)](https://fdu-cooks.github.io/fdu-gradhotpot/collections/)：
+#### 选校定位(信息发布在[Collections](https://fdu-cooks.github.io/fdu-gradhotpot/collections/))
 
 -  我旦的学长学姐的选校与录取，能够为学弟学妹提供直接的定位和比较，信息分享包括两大块：**录取情况**和**个人背景**，两者兼备才能给学弟学妹提供参考。
 -  **完成该问卷即可添加您的选校定位信息：<https://wj.qq.com/s2/3492415/6902/>  (注：电脑端填写更方便)**
 -  问卷中有一道题询问联系方式，联系方式不会直接暴露在网上，学弟学妹需要通过学号邮箱进行请求才能获得联系方式，避免网络其他信息对您生活的干扰。
 
-#### 申请心得[(Categories)](https://fdu-cooks.github.io/fdu-gradhotpot/category/)：
+#### 申请心得(信息发布在[Categories](https://fdu-cooks.github.io/fdu-gradhotpot/category/))
 
-##### 写作前：
+##### 写作前
 
 -  您可以将自己在申请过程中的心得、教训、建议在这里分享，您可以写申请全程回顾、详细而全面（如[这一篇](https://fdu-cooks.github.io/fdu-gradhotpot/2019/04/11/%E6%9D%B0%E5%B0%BC%E9%BE%9F%E7%9A%84%E7%94%B3%E8%AF%B7%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/)），您也可以有所侧重、精简干练（如[这一篇](https://fdu-cooks.github.io/fdu-gradhotpot/2019/04/12/%E7%94%B3%E8%AF%B7%E5%89%8D%E5%87%86%E5%A4%87-%E8%BD%AC%E7%A0%81%E5%90%91/)），只要您认为能够帮助他人即可。
 -  我们需要您将文章写成Markdown格式，相信 CS / DS 的你能够很快搞定这些，我们的文章存放在[此处](https://github.com/fdu-cooks/fdu-gradhotpot/tree/master/_posts/%E7%94%B3%E8%AF%B7%E7%BB%8F%E9%AA%8C)，可作为您写作前的参考。
 
-##### 写作时：
+##### 写作时
 
 -  您需要注意两点要求，以便文章顺利地显示在Hotpot网站上：
 
@@ -77,7 +77,7 @@ typora-copy-images-to: ipic
        >  ```
 
 
-##### 写作后：
+##### 写作后
 
 
 -  当您完成写作之后，您可以选择其中一种方式上传：
