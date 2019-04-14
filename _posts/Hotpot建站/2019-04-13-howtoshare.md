@@ -5,7 +5,6 @@ excerpt: "本文写给Hotpot计划的分享者，包括如何贡献自己的选�
 categories: Hotpot建站
 tags: 建站
 author: cooks
-top: true
 typora-copy-images-to: ipic
 ---
 
