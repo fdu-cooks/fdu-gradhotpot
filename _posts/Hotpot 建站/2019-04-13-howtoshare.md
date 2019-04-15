@@ -43,9 +43,9 @@ typora-copy-images-to: ipic
 
 -  您需要注意两点要求，以便文章顺利地显示在Hotpot网站上：
 
-   1. **Markdown文件名：**` YYYY-MM-DD - TITLE.md` 格式。
+   1. **Markdown文件名：**` YYYY-MM-DD-TITLE.md` 格式。
 
-      >  例：2019-04-11 - 杰尼龟的申请经验分享.md
+      >  例：2019-04-11-杰尼龟的申请经验分享.md
 
    2. **Markdown文件抬头：** 其中`toc`部分是为了能够在网站上加载目录内容，完成抬头后就可以在Markdown中自由地写作啦。
 
@@ -62,7 +62,7 @@ typora-copy-images-to: ipic
        {:toc}
        ```
 
-       >  例：[2019-04-12 - 申请前准备 - 转码向.md](https://raw.githubusercontent.com/fdu-cooks/fdu-gradhotpot/master/_posts/%E7%94%B3%E8%AF%B7%E7%BB%8F%E9%AA%8C/2019-04-12-%E7%94%B3%E8%AF%B7%E5%89%8D%E5%87%86%E5%A4%87-%E8%BD%AC%E7%A0%81%E5%90%91.md) 的抬头：
+       >  例：[2019-04-12-申请前准备-转码向.md](https://raw.githubusercontent.com/fdu-cooks/fdu-gradhotpot/master/_posts/%E7%94%B3%E8%AF%B7%E7%BB%8F%E9%AA%8C/2019-04-12-%E7%94%B3%E8%AF%B7%E5%89%8D%E5%87%86%E5%A4%87-%E8%BD%AC%E7%A0%81%E5%90%91.md) 的抬头：
        >
        >  ```markdown
        >  ---
