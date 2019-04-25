@@ -62,7 +62,7 @@
 #### 项目时间表
 
 <p align="center">
-	<img src="https://fdu-hotpot.top/wp-content/uploads/2019/04/image-7.png" alt="schedule"  width="500" height="600">
+	<img src="https://fdu-hotpot.top/wp-content/uploads/2019/04/image-7.png" alt="schedule"  width="500">
 </p>
 
 #### 联系我们
