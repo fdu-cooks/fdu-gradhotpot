@@ -1,7 +1,5 @@
 # FDU-Hotpot计划
 
-## 写在最前面
-
 本站已迁移至新的地址: [FDU-Hotpot](http://fdu-hotpot.top)
 
 为了安全与隐私保护，目前仅针对复旦学子开放 [注册](http://fdu-hotpot.top/?page_id=112)
